@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author j
+ * @author j 
  */
 public class roundP extends javax.swing.JFrame {
 
